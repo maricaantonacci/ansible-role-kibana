@@ -20,6 +20,7 @@ galaxy_info:
         - precise
         - trusty
         - xenial
+  role_name: kibana
   galaxy_tags:
     - web
     - system
